@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class  fibonacci{
+class  switch_case{
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int empid=s.nextInt();
